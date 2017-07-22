@@ -823,11 +823,11 @@ blockquote {
 #features17-b .mbr-section-title B {
   color: #ffffff;
 }
-#form2-h .mbr-section-subtitle {
-  text-transform: uppercase;
-}
-#form2-h .form-control-label {
+#contacts3-q .form-control-label {
   color: undefined;
+}
+#contacts3-q .mbr-section-text {
+  font-size: 20px;
 }
 #menu-e .hide-buttons .nav-btn {
   display: none !important;
