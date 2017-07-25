@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ThiemOne Webdesign",
-    "currentPage": "index.html",
+    "currentPage": "impressum.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 27,
+    "uniqCompNum": 46,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -308,79 +308,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ThiemOne WEBDESIGN</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LEISTUNGEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"features.html\">Features</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mein_angebot.html\">Mein Angebot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"preisbeispiele.html\">Preisbeispiele</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-q\" aria-expanded=\"false\">KONTAKT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">IMPRESSUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-subtitle, .mbr-section-text": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "margin-bottom": "20px",
-              "margin-top": "0"
-            }
-          },
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-5",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444",
-            "logo": true,
-            "showTitles": true,
-            "showButtons": false
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "responsive-design",
-              "family": "icon54",
-              "link": "index.html",
-              "size": "120",
-              "color": "#faaf40",
-              "newWindow": false,
-              "active": true
-            }
-          },
-          "title1": "Thiem-one-Webdesign",
-          "text11": "Popular",
-          "text12": "Trending",
-          "text13": "Catalog",
-          "text14": "Awesome",
-          "text15": "Best",
-          "title2": "company",
-          "text21": "Press",
-          "text22": "Features",
-          "text23": "Mission",
-          "text24": "Strategy",
-          "text25": "Works",
-          "title3": "Learn more",
-          "text31": "Support",
-          "text32": "Developers",
-          "text33": "Service",
-          "text34": "Starter pack",
-          "text35": "FAQ",
-          "followtext": "follow us",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
-          "text": "Copyright (c) 2016 Mobirise&nbsp; | &nbsp;<a href=\"http://www.thiem-one-webdesign.de\" target=\"_blank\" style=\"font-style: normal;\">ThiemOne WEBDESIGN</a>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LEISTUNGEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"features.html\">Features</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mein_angebot.html\">Mein Angebot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"preisbeispiele.html\">Preisbeispiele</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-q\" aria-expanded=\"false\">KONTAKT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"impressum.html\" aria-expanded=\"false\">IMPRESSUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -488,7 +416,7 @@
             }
           },
           "subtitle4": "neueste Technologien",
-          "caption4": "Mit dem Framework BOOTSTRAP oder mit dem CMS-System WORDPRESS wird ein browserfreundlicher Code verwendet, der sehr gut mit Suchmaschinen kompatibel ist. Mit diesen Technologien sind gestalterisch keine Grenzen gesetzt!&nbsp;",
+          "caption4": "Mit dem Framework BOOTSTRAP oder mit dem CMS-System WORDPRESS wird ein browserfreundlicher Code verwendet, der sehr gut mit Suchmaschinen kompatibel ist. Mit diesen Technologien sind auch gestalterisch keine Grenzen gesetzt!&nbsp;",
           "media5": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -560,7 +488,7 @@
             "showTitle": true,
             "showButtons": false
           },
-          "title": "<b>Für wen und wie teuer ist die Website?&nbsp;</b><br><br>Im Focus stehen für mich Künstler, Maler, Musiker, Fotografen, Heilberufler, Ärzte, Restaurants, Kleingewerbe, Handwerker, Vereine, Anwälte und Pädagogen.&nbsp;<br><br>Meine Arbeiten sind günstig und vor allem responsiv!<br><br>Meine Preise bewegen sich von <b>600€</b> bis <b>3000€</b>!<br>Je nach Aufwand und Umfang ist dies die Spanne.&nbsp;<br><br><i>Die Preise enthalten die gesetzl. 19 % MwSt..</i><br><br><br>",
+          "title": "<b>Für wen und wie teuer ist die Website?&nbsp;</b><br><br>Im Focus stehen für mich Künstler, Maler, Musiker, Fotografen, Heilberufler, Ärzte, Restaurants, Kleingewerbe, Handwerker, Vereine, Anwälte und Pädagogen.&nbsp;<br><br>Meine Arbeiten sind günstig und vor allem responsiv!<br><br>Meine Preise bewegen sich von <b>500 €</b> bis <b>2500 €&nbsp;</b>!<br>Je nach Aufwand und Umfang ist dies die Spanne.&nbsp;<br><br><i>Die Preise enthalten die gesetzl. 19 % MwSt..</i><br><br><br>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>"
         },
         {
@@ -599,11 +527,11 @@
           },
           "cat1": "adresse",
           "title1": "<b>ThiemOne WEBDESIGN</b><br>Johannes Thiem<br>Föttingerzeile 49, 12277 Berlin",
-          "cat2": "Telefon",
+          "cat2": "Telefon / Mobile",
           "title2": "<a href=\"tel:+49 30 224 501 35\">+49 30 224 501 35</a><br><a href=\"tel:+49 30 224 501 35\"><br></a><a href=\"tel:+49 151 40 52 11 41\">+49 151 40 52 11 41</a>",
           "cat3": "email",
           "title3": "<a href=\"mailto:service@thiem-one-webdesign.de\">service@thiem-one-webdesign.de</a>",
-          "text": "Ich freue mich auf Ihre Anfrage!",
+          "text": "Ich freue mich auf Ihre Anfrage! &nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-skype\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin\"></span></a>",
           "form": {
             "action": "servive@thiem-one-webdesign.de",
@@ -633,6 +561,79 @@
             }
           },
           "formButton": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Senden</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle, .mbr-section-text": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "margin-bottom": "20px",
+              "margin-top": "0",
+              "font-size": "18px"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-13",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444",
+            "logo": true,
+            "showTitles": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "responsive-design",
+              "family": "icon54",
+              "link": "index.html",
+              "size": 128,
+              "newWindow": false,
+              "active": true,
+              "color": "#faaf40"
+            }
+          },
+          "title1": "",
+          "text11": "",
+          "text12": "",
+          "text13": "",
+          "text14": "",
+          "text15": "",
+          "title2": "Thiem-One <br>WEBDESIGN",
+          "text21": "<a href=\"index.html\">START</a>",
+          "text22": "<a href=\"features.html\">FEATURES</a>",
+          "text23": "<a href=\"mein_angebot.html\">MEIN ANGEBOT</a>",
+          "text24": "<a href=\"preisbeispiele.html\">PREISBEISPIELE</a><br><a href=\"index.html#contacts3-q\">KONTAKT</a>",
+          "text25": "<a href=\"impressum.html\">IMPRESSUM</a>",
+          "title3": "",
+          "text31": "",
+          "text32": "",
+          "text33": "",
+          "text34": "",
+          "text35": "",
+          "followtext": "follow us",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "text": "Copyright (c) 2016 <b>Mobirise&nbsp;</b> | &nbsp; <a href=\"http://www.thiem-one-webdesign.de\">ThiemOne WEBDESIGN</a>"
         }
       ]
     },
@@ -734,79 +735,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ThiemOne WEBDESIGN</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LEISTUNGEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"features.html\">Features</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mein_angebot.html\">Mein Angebot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"preisbeispiele.html\">Preisbeispiele</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-q\" aria-expanded=\"false\">KONTAKT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">IMPRESSUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-subtitle, .mbr-section-text": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "margin-bottom": "20px",
-              "margin-top": "0"
-            }
-          },
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-f",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444",
-            "logo": true,
-            "showTitles": true,
-            "showButtons": false
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "responsive-design",
-              "family": "icon54",
-              "link": "index.html",
-              "size": "120",
-              "color": "#faaf40",
-              "newWindow": false,
-              "active": true
-            }
-          },
-          "title1": "Thiem-one-Webdesign",
-          "text11": "Popular",
-          "text12": "Trending",
-          "text13": "Catalog",
-          "text14": "Awesome",
-          "text15": "Best",
-          "title2": "company",
-          "text21": "Press",
-          "text22": "Features",
-          "text23": "Mission",
-          "text24": "Strategy",
-          "text25": "Works",
-          "title3": "Learn more",
-          "text31": "Support",
-          "text32": "Developers",
-          "text33": "Service",
-          "text34": "Starter pack",
-          "text35": "FAQ",
-          "followtext": "follow us",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
-          "text": "Copyright (c) 2016 Mobirise&nbsp; | &nbsp;<a href=\"http://www.thiem-one-webdesign.de\" target=\"_blank\" style=\"font-style: normal;\">ThiemOne WEBDESIGN</a>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LEISTUNGEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"features.html\">Features</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mein_angebot.html\">Mein Angebot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"preisbeispiele.html\">Preisbeispiele</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-q\" aria-expanded=\"false\">KONTAKT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"impressum.html\" aria-expanded=\"false\">IMPRESSUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -850,11 +779,11 @@
             "overlayColor": "#434350",
             "showTitle": true,
             "showImages": true,
-            "columns": "4",
+            "columns": "3",
             "showTitles": true,
             "ShowTexts": true
           },
-          "title": "Features:<br><br>Meine &nbsp;Leistungen",
+          "title": "<br>Features:<br><br><br>",
           "media": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/nb7.png",
@@ -863,13 +792,86 @@
             }
           },
           "subtitle1": "Statische Websites",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "Um gleich ein Missverständnis auszuräumen: Statische Websites sind responsiv und voll funktional! Sie haben also kein statisches Layout und passen sich flexibel an unterschiedliche Bildschirmgrößen an. Mit statisch ist etwas anderes gemeint: Einmal ins Internet gestellt bedürfen sie nicht einer ständigen Aktualisierung, wie es Blogs oder Magazine benötigen, die immer wieder neue Einträge bekommen! &nbsp;Zu dieser Art Websites gehören eine Menge Vertreter, wie beispielsweise Handwerksbetriebe, Heilberufler oder auch Restaurants. Dennoch können zum Beispiel sich wöchentlich ändernde Speisekarten über einen gesonderten FTP-Zugang neu von der Küche &nbsp;präsentiert werden. <br>Außerdem biete ich zusätzliche Änderungen an, wenn erforderlich und erwünscht!<br>Der Vorteil bei diesen Sites ist, dass sie keine Datenbank benötigen und durch direkten Zugriff recht schnell sind! Auch der Aufwand der Erstellung ist geringer.",
           "subtitle2": "Dynamische Websites",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "Dynamische Websites basieren auf ein Content Mamagemant System (CMS). Der Inhalt (Content) wird hierbei getrennt von dem Design der Website und kann daher relativ leicht vom Laien gepflegt und bearbeitet werden. Im sogenannten Backend kann online auf die Daten zugegriffen werden, die sich in einer Datenbank befinden.&nbsp;<br>Wenn also klar ist, dass Ihre Website immer wieder aktuelle Informationen bereitstellen soll, ist dies die richtige Lösung. Außerdem können mehrere Autoren mit Zugriffsrechten ausgestattet werden.&nbsp;<br>Der Inhalt und das Layout werden also erst beim Aurfrufen vom Browser (dynamisch) zusammengesetzt.<br>Wer aber weiß, dass er seine Website selten oder gar nicht &nbsp;updaten möchte und die Website mehr eine Visitenkarte sein soll, der ist mit einer statischen Website ausreichend bedient!<br>CMS-Systeme müssen regelmäßig geupdatet werden, weil sie sonst schneller Sicherheitslücken bei Hackerangriffen bieten!",
           "subtitle3": "Gutes Konzept",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Zum guten Konzept gehört auch am Anfang diese Entscheidung, nämlich statisch oder dynamisch, dazu. &nbsp;<br>Wenn die Entscheidung gefallen ist, geht es dann in erster Linie darum, welche Inhalte an welchen Orten zu finden sein sollen. Es bedarf also einer durchdachten Navigation mit klarer Struktur, die dem Besucher ein leichtes Finden der Infos ermöglicht!<br>Außerdem soll beim Besucher in kürzester Zeit ein positives Gefühl zur Website vermittelt werden, damit er auch länger auf ihr verweilt! Hier ist ein ansprechendes Design mit guten Bildern wichtig, damit dieses gute subjektive Gefühl erzeugt wird. Die Website muss sympathisch wirken und einladend sein.<br><br>&nbsp;",
           "subtitle4": "Zusatzleistungen",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app."
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle, .mbr-section-text": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "margin-bottom": "20px",
+              "margin-top": "0",
+              "font-size": "18px"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-13",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444",
+            "logo": true,
+            "showTitles": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "responsive-design",
+              "family": "icon54",
+              "link": "index.html",
+              "size": 128,
+              "newWindow": false,
+              "active": true,
+              "color": "#faaf40"
+            }
+          },
+          "title1": "",
+          "text11": "",
+          "text12": "",
+          "text13": "",
+          "text14": "",
+          "text15": "",
+          "title2": "Thiem-One <br>WEBDESIGN",
+          "text21": "<a href=\"index.html\">START</a>",
+          "text22": "<a href=\"features.html\">FEATURES</a>",
+          "text23": "<a href=\"mein_angebot.html\">MEIN ANGEBOT</a>",
+          "text24": "<a href=\"preisbeispiele.html\">PREISBEISPIELE</a><br><a href=\"index.html#contacts3-q\">KONTAKT</a>",
+          "text25": "<a href=\"impressum.html\">IMPRESSUM</a>",
+          "title3": "",
+          "text31": "",
+          "text32": "",
+          "text33": "",
+          "text34": "",
+          "text35": "",
+          "followtext": "follow us",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "text": "Copyright (c) 2016 <b>Mobirise&nbsp;</b> | &nbsp; <a href=\"http://www.thiem-one-webdesign.de\">ThiemOne WEBDESIGN</a>"
         }
       ]
     },
@@ -971,79 +973,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ThiemOne WEBDESIGN</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LEISTUNGEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"features.html\">Features</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mein_angebot.html\">Mein Angebot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"preisbeispiele.html\">Preisbeispiele</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-q\" aria-expanded=\"false\">KONTAKT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">IMPRESSUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-subtitle, .mbr-section-text": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "margin-bottom": "20px",
-              "margin-top": "0"
-            }
-          },
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-j",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444",
-            "logo": true,
-            "showTitles": true,
-            "showButtons": false
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "responsive-design",
-              "family": "icon54",
-              "link": "index.html",
-              "size": "120",
-              "color": "#faaf40",
-              "newWindow": false,
-              "active": true
-            }
-          },
-          "title1": "Thiem-one-Webdesign",
-          "text11": "Popular",
-          "text12": "Trending",
-          "text13": "Catalog",
-          "text14": "Awesome",
-          "text15": "Best",
-          "title2": "company",
-          "text21": "Press",
-          "text22": "Features",
-          "text23": "Mission",
-          "text24": "Strategy",
-          "text25": "Works",
-          "title3": "Learn more",
-          "text31": "Support",
-          "text32": "Developers",
-          "text33": "Service",
-          "text34": "Starter pack",
-          "text35": "FAQ",
-          "followtext": "follow us",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
-          "text": "Copyright (c) 2016 Mobirise&nbsp; | &nbsp;<a href=\"http://www.thiem-one-webdesign.de\" target=\"_blank\" style=\"font-style: normal;\">ThiemOne WEBDESIGN</a>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LEISTUNGEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"features.html\">Features</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mein_angebot.html\">Mein Angebot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"preisbeispiele.html\">Preisbeispiele</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-q\" aria-expanded=\"false\">KONTAKT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"impressum.html\" aria-expanded=\"false\">IMPRESSUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "alias": "colorm/components",
@@ -1076,7 +1006,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.7",
-            "overlayColor": "#151515",
+            "overlayColor": "#c0392b",
             "showTitle": true,
             "showSubtitle": true,
             "showDates": true
@@ -1106,7 +1036,7 @@
           "text7": "In den folgenden 3 Monaten übernehme ich noch kleine Anderungen und Korrekturen ohne Preisaufschlag!",
           "date8": "Autoren-Coaching",
           "title8": "8. Sonderleistungen",
-          "text8": "Wenn erwünscht und vorher abgesprochen, betreue ich Sie als Autor auf Ihrer Website. Dies wird zusätzlich berechnet.",
+          "text8": "Wenn erwünscht und vorher abgesprochen, betreue ich Sie als Autor auf Ihrer Website.",
           "date9": "Betreuung danach",
           "title9": "9. Betreuung langfristig&nbsp;",
           "text9": "Ich bleibe mit Ihnen auch längerfristig in Kontakt, wenn Sie es wollen und betreue Ihr Projekt / Ihre Website!",
@@ -1119,6 +1049,79 @@
           "date12": "12 December 2016",
           "title12": "12. Awesome Reports",
           "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit."
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle, .mbr-section-text": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "margin-bottom": "20px",
+              "margin-top": "0",
+              "font-size": "18px"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-13",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444",
+            "logo": true,
+            "showTitles": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "responsive-design",
+              "family": "icon54",
+              "link": "index.html",
+              "size": 128,
+              "newWindow": false,
+              "active": true,
+              "color": "#faaf40"
+            }
+          },
+          "title1": "",
+          "text11": "",
+          "text12": "",
+          "text13": "",
+          "text14": "",
+          "text15": "",
+          "title2": "Thiem-One <br>WEBDESIGN",
+          "text21": "<a href=\"index.html\">START</a>",
+          "text22": "<a href=\"features.html\">FEATURES</a>",
+          "text23": "<a href=\"mein_angebot.html\">MEIN ANGEBOT</a>",
+          "text24": "<a href=\"preisbeispiele.html\">PREISBEISPIELE</a><br><a href=\"index.html#contacts3-q\">KONTAKT</a>",
+          "text25": "<a href=\"impressum.html\">IMPRESSUM</a>",
+          "title3": "",
+          "text31": "",
+          "text32": "",
+          "text33": "",
+          "text34": "",
+          "text35": "",
+          "followtext": "follow us",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "text": "Copyright (c) 2016 <b>Mobirise&nbsp;</b> | &nbsp; <a href=\"http://www.thiem-one-webdesign.de\">ThiemOne WEBDESIGN</a>"
         }
       ]
     },
@@ -1220,79 +1223,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ThiemOne WEBDESIGN</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LEISTUNGEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"features.html\">Features</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mein_angebot.html\">Mein Angebot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"preisbeispiele.html\">Preisbeispiele</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-q\" aria-expanded=\"false\">KONTAKT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">IMPRESSUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-subtitle, .mbr-section-text": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "margin-bottom": "20px",
-              "margin-top": "0"
-            }
-          },
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-m",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444",
-            "logo": true,
-            "showTitles": true,
-            "showButtons": false
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "responsive-design",
-              "family": "icon54",
-              "link": "index.html",
-              "size": "120",
-              "color": "#faaf40",
-              "newWindow": false,
-              "active": true
-            }
-          },
-          "title1": "Thiem-one-Webdesign",
-          "text11": "Popular",
-          "text12": "Trending",
-          "text13": "Catalog",
-          "text14": "Awesome",
-          "text15": "Best",
-          "title2": "company",
-          "text21": "Press",
-          "text22": "Features",
-          "text23": "Mission",
-          "text24": "Strategy",
-          "text25": "Works",
-          "title3": "Learn more",
-          "text31": "Support",
-          "text32": "Developers",
-          "text33": "Service",
-          "text34": "Starter pack",
-          "text35": "FAQ",
-          "followtext": "follow us",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
-          "text": "Copyright (c) 2016 Mobirise&nbsp; | &nbsp;<a href=\"http://www.thiem-one-webdesign.de\" target=\"_blank\" style=\"font-style: normal;\">ThiemOne WEBDESIGN</a>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LEISTUNGEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"features.html\">Features</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mein_angebot.html\">Mein Angebot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"preisbeispiele.html\">Preisbeispiele</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-q\" aria-expanded=\"false\">KONTAKT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"impressum.html\" aria-expanded=\"false\">IMPRESSUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1345,35 +1276,330 @@
             "fourthType": ""
           },
           "title": "4 BEISPIELE",
-          "subtitle": "Diese Beispiele zeigen, wie sich die Leistungpreise ergeben. Preislich gibt es noch mehrere Zwischenlösungen. <br>Die Preise enthalten 19 % gesetzl. MwSt..",
+          "subtitle": "Diese Beispiele zeigen, wie sich die Leistungpreise ergeben. Preislich gibt es noch mehrere Zwischenlösungen. <br>Die Preise enthalten 19 % gesetzl. MwSt.. &nbsp;Haben Sie Fragen zu den Beispielen? &nbsp;---&gt; &nbsp;<b><a href=\"mailto:service@thiem-one-webdesign.de\">service@thiem-one-webdesign.de</a></b>",
           "label1": "POPULAR",
           "title1": "STATISCHE WEBSITE",
           "currency1": "€",
-          "price1": "600",
+          "price1": "500",
           "period1": "",
           "list1": "<p>BOOTSTRAP-Framework</p><p>Website mit max. 6 Unterseiten</p><p>Durchdachte Navigationsstruktur</p><p>Impressum- und Datenschutzseite</p><p>Kontaktformular und Googlemap</p><p>Suchmaschinenoptimierung</p><p>Google-Analytics</p><p>Anbindung an soziale Medien</p><p>Galerie mit max. 6 Bildern</p><p>Optimieren der Bilder für das Web</p><p>Vorhanden sollten sein: Logo, eigene Fotos und Grafiken, eigene Texte<br>-------</p><p>Wenn noch kein Hosting vorhanden:</p><p>Generierung einer passenden Domain mit dazugehörigem Mailsystem</p><p>Hosting-Paket: 60 € jährlich zuzüglich</p><p>Bei vorhandener Domain ist ein Domainumzug möglich.</p><p></p><div></div><p></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
           "label2": "POPULAR",
           "title2": "STATISCHE WEBSITE",
           "currency2": "€",
-          "price2": "1200",
+          "price2": "1000",
           "period2": "",
           "list2": "<p>BOOTSTRAP-Framework</p><p>Website mit max. 12 Unterseiten</p><p>Durchdachte Navigationsstruktur</p><p>Impressum- und Datenschutzseite</p><p>Kontaktformular und Googlemap</p><p>Suchmaschinenoptimierung</p><p>Google-Analytics</p><p>Anbindung an soziale Medien</p><p>2 Galerien mit je 12 Bildern</p><p>Optimieren der Bilder für das Web</p><p>Logoerstellung&nbsp;</p><p>Von mir erstellte Fotos (im Raum Berlin)</p><p>Textliche Hilfen und Formulierungen</p><p>Vergabe von FTP-Benutzerrechten</p><p>-------</p><p>Wenn noch kein Hosting vorhanden:</p><p>Generierung einer passenden Domain mit dazugehörigem Mailsystem</p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Hosting-Paket: 60 € jährlich zuzüglich</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Bei vorhandener Domain ist ein Domainumzug möglich.<br></span><br></p>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
           "label3": "POPULAR",
           "title3": "DYNAMISCHE WEBSITE",
           "currency3": "€",
-          "price3": "1800",
+          "price3": "1500",
           "period3": "",
-          "list3": "<p><span style=\"line-height: 1.5;\">Content Mangement System WORDPRESS</span><br></p><p>Website / Blog mit max. 10 Unterseiten*</p><p>Durchdachte Navigationsstruktur</p><p>Impressum- und Datenschutzseite</p><p>Kontaktformular und Googlemap</p><p>Suchmaschinenoptimierung</p><p>Google-Analytics</p><p>Galerie mit max. 10 Bildern*</p><p>Optimieren der Bilder für das Web</p><p>Vorhanden sollten sein: Logo, eigene Fotos und Grafiken, eigene Texte</p><p>Vergabe von FTP-Benutzerrechten</p><p>Einweisung in die Bedienung des Dashboards&nbsp;</p><p>-------</p><p>Wenn noch kein Hosting vorhanden:</p><p>Generierung einer passenden Domain mit dazugehörigem Mailsystem</p><p><span style=\"line-height: 1.5;\">Hosting-Paket: 80 € jährlich zuzüglich</span></p><p>Bei vorhandener Domain ist ein Domainumzug möglich.</p><p>*<i>Die Seitenzahl und Bilderzahl können Sie später selbst erhöhen</i></p><p></p>",
+          "list3": "<p><span style=\"line-height: 1.5;\">Content Mangement System WORDPRESS</span><br></p><p>Website / Blog mit max. 10 Unterseiten*</p><p>Durchdachte Navigationsstruktur</p><p>Impressum- und Datenschutzseite</p><p>Kontaktformular und Googlemap</p><p>Suchmaschinenoptimierung</p><p>Google-Analytics</p><p>Galerie mit max. 10 Bildern*</p><p>Optimieren der Bilder für das Web</p><p>Vorhanden sollten sein: Logo, eigene Fotos und Grafiken, eigene Texte</p><p>Einweisung in die Bedienung des Backends</p><p>-------</p><p>Wenn noch kein Hosting vorhanden:</p><p>Generierung einer passenden Domain mit dazugehörigem Mailsystem</p><p><span style=\"line-height: 1.5;\">Hosting-Paket: 80 € jährlich zuzüglich</span></p><p>Bei vorhandener Domain ist ein Domainumzug möglich.</p><p>*<i>Die Seitenzahl und Bilderzahl können Sie später selbst erhöhen</i></p><p></p>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
           "label4": "POPULAR",
           "title4": "DYNAMISCHE WEBSITE",
           "currency4": "€",
-          "price4": "3000",
+          "price4": "2500",
           "period4": "",
-          "list4": "<p>Content Mangement System WORDPRESS</p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Website / Blog mit max. 15 Unterseiten*</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Durchdachte Navigationsstruktur</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Impressum- und Datenschutzseite</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Kontaktformular und Googlemap</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Suchmaschinenoptimierung</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Google-Analytics</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Galerie mit max. 20 Bildern*</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Optimieren der Bilder für das Web</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Logoerstellung&nbsp;</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Von mir erstellte Fotos (im Raum Berlin)</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Textliche Hilfen und Formulierungen</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Vergabe von FTP-Benutzerrechten</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Einweisung in die Bedienung des Dashboards</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">-------</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Wenn noch kein Hosting vorhanden:</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Generierung einer passenden Domain mit dazugehörigem Mailsystem</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Hosting-Paket: 80 € jährlich zuzüglich</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Bei vorhandener Domain ist ein Domainumzug möglich.</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">*</span><i style=\"font-size: 1rem; line-height: 1.5;\">Die Seitenzahl und Bilderzahl können Sie später selbst erhöhen</i></p><p></p>",
+          "list4": "<p>Content Mangement System WORDPRESS</p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Website / Blog mit max. 15 Unterseiten*</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Durchdachte Navigationsstruktur</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Impressum- und Datenschutzseite</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Kontaktformular und Googlemap</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Suchmaschinenoptimierung</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Google-Analytics</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Galerie mit max. 20 Bildern*</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Optimieren der Bilder für das Web</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Logoerstellung&nbsp;</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Von mir erstellte Fotos (im Raum Berlin)</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Textliche Hilfen und Formulierungen</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Einweisung in die Bedienung des Backends</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">-------</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Wenn noch kein Hosting vorhanden:</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Generierung einer passenden Domain mit dazugehörigem Mailsystem</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Hosting-Paket: 80 € jährlich zuzüglich</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Bei vorhandener Domain ist ein Domainumzug möglich.</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">*</span><i style=\"font-size: 1rem; line-height: 1.5;\">Die Seitenzahl und Bilderzahl können Sie später selbst erhöhen</i></p><p></p>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle, .mbr-section-text": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "margin-bottom": "20px",
+              "margin-top": "0",
+              "font-size": "18px"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-13",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444",
+            "logo": true,
+            "showTitles": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "responsive-design",
+              "family": "icon54",
+              "link": "index.html",
+              "size": 128,
+              "newWindow": false,
+              "active": true,
+              "color": "#faaf40"
+            }
+          },
+          "title1": "",
+          "text11": "",
+          "text12": "",
+          "text13": "",
+          "text14": "",
+          "text15": "",
+          "title2": "Thiem-One <br>WEBDESIGN",
+          "text21": "<a href=\"index.html\">START</a>",
+          "text22": "<a href=\"features.html\">FEATURES</a>",
+          "text23": "<a href=\"mein_angebot.html\">MEIN ANGEBOT</a>",
+          "text24": "<a href=\"preisbeispiele.html\">PREISBEISPIELE</a><br><a href=\"index.html#contacts3-q\">KONTAKT</a>",
+          "text25": "<a href=\"impressum.html\">IMPRESSUM</a>",
+          "title3": "",
+          "text31": "",
+          "text32": "",
+          "text33": "",
+          "text34": "",
+          "text35": "",
+          "followtext": "follow us",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "text": "Copyright (c) 2016 <b>Mobirise&nbsp;</b> | &nbsp; <a href=\"http://www.thiem-one-webdesign.de\">ThiemOne WEBDESIGN</a>"
+        }
+      ]
+    },
+    "impressum.html": {
+      "settings": {
+        "title": "ThiemOne WEBDESIGN | Impressum",
+        "footer_custom": "<div id=\"ofgcert\"><script type=\"text/javascript\" src=\"https://ofg-studium.de/images/certificate/utils/cert.php?x=35af8c1e-1851-11e7-be44-005056a71e55\"></script></div>"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.875rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.948rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1a242f"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#273646!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2c3e50"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f39c12!important"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-s",
+          "_params": {
+            "bgColor": "#2c3e50",
+            "fontSize": 0.875,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "responsive-design",
+              "family": "icon54",
+              "link": "index.html",
+              "size": 0,
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ThiemOne WEBDESIGN</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LEISTUNGEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"features.html\">Features</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mein_angebot.html\">Mein Angebot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"preisbeispiele.html\">Preisbeispiele</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-q\" aria-expanded=\"false\">KONTAKT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"impressum.html\" aria-expanded=\"false\">IMPRESSUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle, .mbr-section-text": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "margin-bottom": "20px",
+              "margin-top": "0",
+              "font-size": "18px"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-13",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444",
+            "logo": true,
+            "showTitles": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "responsive-design",
+              "family": "icon54",
+              "link": "index.html",
+              "size": 128,
+              "newWindow": false,
+              "active": true,
+              "color": "#faaf40"
+            }
+          },
+          "title1": "",
+          "text11": "",
+          "text12": "",
+          "text13": "",
+          "text14": "",
+          "text15": "",
+          "title2": "Thiem-One <br>WEBDESIGN",
+          "text21": "<a href=\"index.html\">START</a>",
+          "text22": "<a href=\"features.html\">FEATURES</a>",
+          "text23": "<a href=\"mein_angebot.html\">MEIN ANGEBOT</a>",
+          "text24": "<a href=\"preisbeispiele.html\">PREISBEISPIELE</a><br><a href=\"index.html#contacts3-q\">KONTAKT</a>",
+          "text25": "<a href=\"impressum.html\">IMPRESSUM</a>",
+          "title3": "",
+          "text31": "",
+          "text32": "",
+          "text33": "",
+          "text34": "",
+          "text35": "",
+          "followtext": "follow us",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "text": "Copyright (c) 2016 <b>Mobirise&nbsp;</b> | &nbsp; <a href=\"http://www.thiem-one-webdesign.de\">ThiemOne WEBDESIGN</a>"
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "accordion2",
+          "_anchor": "accordion2-19",
+          "_params": {
+            "tabs": "2",
+            "paddingTop": "4",
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/img_extAccordion1_bg.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showText": true
+          },
+          "title": "Impressum",
+          "text": "<br><b>ThienOne WEBDESIGN</b><br><br>Inhaber: Johannes Thiem<br><br>Föttingerzeile 49<br>12277 Berlin<br>Deutschland<br><br>Tel: +49 (0) 30 22450135<br>Fax: +49 (0) 30 22450134<br><br>E-Mail: <a href=\"mailto:info@thiem-one-webdesign.de\">info@thiem-one-webdesign.de</a><br>Internet: www.thiem-one-webdesign.de<br><a href=\"mailto:info@thiem-one-webdesign.de\"><br></a>Umsatzsteuer-Identifikationsnummer gemäß § 27a Umsatzsteuergesetz:&nbsp;<br>ist beantragt!<br><br>Bildnachweis:<br>Selbstportrait: Johannes Thiem / Fotolia: SEO Search Engine Optimazation / Free Online Library of Mobirise / &nbsp; Handy: Mockuuups Studio<br><br><br><br><br><a href=\"mailto:info@thiem-one-webdesign.de\"><br></a><br><br><br><br>",
+          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion2-19-init\" data-core=\"\" href=\"#collapseOneaccordion2-19\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Haftungsausschluss</a>",
+          "text1": "<p>Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich</p>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion2-19-init\" data-core=\"\" href=\"#collapseTwoaccordion2-19\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Datenschutzerklärung</a>",
+          "text2": "<p><b>Datenschutz</b><br>Der Betreiber dieser Seiten nimmt den Schutz Ihrer persönlichen Daten sehr ernst. Ich behandel Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.<br><span style=\"font-size: 1rem; line-height: 1.85em;\">Die Nutzung meiner Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf meinen Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder E-Mail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.<br></span><span style=\"font-size: 1rem; line-height: 1.85em;\">Ich weise darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.</span></p><p><span style=\"font-size: 1rem; line-height: 1.85em;\"><b>Datenschutzerklärung für die Nutzung von Google Analytics</b><br>Diese Website nutzt Funktionen des Webanalysedienstes Google Analytics. Anbieter ist die Google Inc. 1600 Amphitheatre Parkway Mountain View, CA 94043, USA. Google Analytics verwendet sog. \"Cookies\". Das sind Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert.<br>Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.<br>Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren: http://tools.google.com/dlpage/gaoptout?hl=de<br></span></p><p><span style=\"font-size: 1rem; line-height: 1.85em;\"><b>Auskunft, Löschung, Sperrung</b><br>Sie haben jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung sowie ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden.<br></span><span style=\"font-size: 1rem; line-height: 1.85em;\">-</span><span style=\"font-size: 1rem; line-height: 1.85em;\">&nbsp; &nbsp; Server-Log-Files<br></span><span style=\"font-size: 1rem; line-height: 1.85em;\">- &nbsp; &nbsp;Der Provider der Seiten erhebt und speichert automatisch </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1rem; line-height: 1.85em;\">Informationen in sogenannten Server-Log Files, die ihr Browser automatisch an mich übermittelt. Dies dies sind:<br>-</span>&nbsp; &nbsp; Browsertyp/ Browserversion<br>-&nbsp; &nbsp; verwndetes Betriebssystem<br>-&nbsp; &nbsp; Referrer URL<br>-&nbsp; &nbsp; Hostname des zugreifenden Rechners<br>-&nbsp; &nbsp; Uhrzeit der Serveranfrage<br>Diese Daten sind nicht bestimmten Personen zuordenbar. Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen. Ich behalten mir vor, diese Daten nachträglich zu prüfen, wenn mir konkrete Anhaltspunkte für eine rechtswidrige Nutzung bekannt werden.<br><br><span style=\"font-size: 1rem; line-height: 1.85em;\"><b>Cookies<br></b></span><span style=\"font-size: 1rem; line-height: 1.85em;\">Die Internetseiten verwenden teilweise so genannte Cookies. Cookies richten auf Ihrem Rechner keinen Schaden an und enthalten keine Viren. Cookies dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen. Cookies sind kleine Textdateien, die auf Ihrem Rechner abgelegt werden und die Ihr Browser speichert.<br></span><span style=\"font-size: 1rem; line-height: 1.85em;\">Die meisten der von uns verwendeten Cookies sind so genannte „Session-Cookies“. Sie werden nach Ende Ihres Besuchs automatisch gelöscht. Andere Cookies bleiben auf Ihrem Endgerät gespeichert, bis Sie diese löschen. Diese Cookies ermöglichen es uns, Ihren Browser beim nächsten Besuch wiederzuerkennen.<br></span><span style=\"font-size: 1rem; line-height: 1.85em;\">Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies informiert werden und Cookies nur im Einzelfall erlauben, die Annahme von Cookies für bestimmte Fälle oder generell ausschließen sowie das automatische Löschen der Cookies beim Schließen des Browser aktivieren. Bei der Deaktivierung von Cookies kann die Funktionalität dieser Website eingeschränkt sein.</span></p><p><span style=\"font-size: 1rem; line-height: 1.85em;\"><b>Kontaktformular</b><br>Wenn Sie uns per Kontaktformular Anfragen zukommen lassen, werden Ihre Angaben aus dem Anfrageformular inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei mir gespeichert. Diese Daten gebe ich nicht ohne Ihre Einwilligung weiter.</span></p><p><b>Widerspruch Werbe-Mails</b><br>Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-E-Mails, vor.</p><p>Quellenangabe: <a href=\"http://www.erecht24.de\" target=\"_blank\">eRecht24</a></p><br><p><span style=\"font-size: 1rem; line-height: 1.85em;\"><br><br></span></p><br><p><br><br></p><p><span style=\"font-size: 1rem; line-height: 1.85em;\">&nbsp;&nbsp;</span></p><p><span style=\"font-size: 1rem; line-height: 1.85em;\"><br></span></p><br><p><span style=\"font-size: 1rem; line-height: 1.85em;\"><br></span></p>",
+          "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Why Mobirise?</a>",
+          "text3": "<p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p>",
+          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
+          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
+          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         }
       ]
     }

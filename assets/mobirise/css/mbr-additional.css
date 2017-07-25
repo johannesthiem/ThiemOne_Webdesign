@@ -794,14 +794,6 @@ blockquote {
 #menu-1 .dropdown-item[aria-expanded="true"] {
   color: #f39c12!important;
 }
-#footer1-5 .mbr-section-subtitle,
-#footer1-5 .mbr-section-text {
-  color: #fff;
-}
-#footer1-5 .mbr-section-subtitle {
-  margin-bottom: 20px;
-  margin-top: 0;
-}
 #features4-7 .mbr-section-title {
   font-weight: 700;
   font-size: 60px;
@@ -828,6 +820,15 @@ blockquote {
 }
 #contacts3-q .mbr-section-text {
   font-size: 20px;
+}
+#footer1-13 .mbr-section-subtitle,
+#footer1-13 .mbr-section-text {
+  color: #fff;
+}
+#footer1-13 .mbr-section-subtitle {
+  margin-bottom: 20px;
+  margin-top: 0;
+  font-size: 18px;
 }
 #menu-e .hide-buttons .nav-btn {
   display: none !important;
@@ -896,14 +897,6 @@ blockquote {
 #menu-e .dropdown-item[aria-expanded="true"] {
   color: #f39c12!important;
 }
-#footer1-f .mbr-section-subtitle,
-#footer1-f .mbr-section-text {
-  color: #fff;
-}
-#footer1-f .mbr-section-subtitle {
-  margin-bottom: 20px;
-  margin-top: 0;
-}
 #features15-g .mbr-section-title {
   font-weight: 700;
 }
@@ -915,6 +908,15 @@ blockquote {
 }
 #features15-g .mbr-cards-row {
   margin-top: 40px;
+}
+#footer1-13 .mbr-section-subtitle,
+#footer1-13 .mbr-section-text {
+  color: #fff;
+}
+#footer1-13 .mbr-section-subtitle {
+  margin-bottom: 20px;
+  margin-top: 0;
+  font-size: 18px;
 }
 #menu-i .hide-buttons .nav-btn {
   display: none !important;
@@ -983,19 +985,20 @@ blockquote {
 #menu-i .dropdown-item[aria-expanded="true"] {
   color: #f39c12!important;
 }
-#footer1-j .mbr-section-subtitle,
-#footer1-j .mbr-section-text {
-  color: #fff;
-}
-#footer1-j .mbr-section-subtitle {
-  margin-bottom: 20px;
-  margin-top: 0;
-}
 #features9-k H4 {
   color: #e67e22;
 }
 #features9-k P {
   color: #333333;
+}
+#footer1-13 .mbr-section-subtitle,
+#footer1-13 .mbr-section-text {
+  color: #fff;
+}
+#footer1-13 .mbr-section-subtitle {
+  margin-bottom: 20px;
+  margin-top: 0;
+  font-size: 18px;
 }
 #menu-l .hide-buttons .nav-btn {
   display: none !important;
@@ -1064,14 +1067,6 @@ blockquote {
 #menu-l .dropdown-item[aria-expanded="true"] {
   color: #f39c12!important;
 }
-#footer1-m .mbr-section-subtitle,
-#footer1-m .mbr-section-text {
-  color: #fff;
-}
-#footer1-m .mbr-section-subtitle {
-  margin-bottom: 20px;
-  margin-top: 0;
-}
 #pricing-table1-n .mbr-section__container .mbr-section-title {
   color: #fff;
 }
@@ -1090,4 +1085,92 @@ blockquote {
 }
 #pricing-table1-n P {
   font-size: 16px;
+}
+#footer1-13 .mbr-section-subtitle,
+#footer1-13 .mbr-section-text {
+  color: #fff;
+}
+#footer1-13 .mbr-section-subtitle {
+  margin-bottom: 20px;
+  margin-top: 0;
+  font-size: 18px;
+}
+#menu-s .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-s .navbar-caption {
+  color: #ffffff;
+}
+#menu-s .navbar-toggler {
+  color: #ffffff;
+}
+#menu-s .close-icon::before,
+#menu-s .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-s .link,
+#menu-s .dropdown-item {
+  color: #ffffff;
+}
+#menu-s .link {
+  font-size: 0.875rem;
+}
+#menu-s .dropdown-item,
+#menu-s .nav-dropdown-sm .link {
+  font-size: 0.948rem;
+}
+#menu-s .link:hover,
+#menu-s .link:focus {
+  color: #f39c12;
+}
+#menu-s .dropdown-item:hover::before,
+#menu-s .dropdown-item:focus::before {
+  background: #f39c12;
+}
+#menu-s .dropdown-item:hover,
+#menu-s .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-s .link[aria-expanded="true"],
+#menu-s .dropdown-menu {
+  background: #1a242f;
+}
+#menu-s .nav-dropdown-sm .link:focus,
+#menu-s .nav-dropdown-sm .link:hover,
+#menu-s .nav-dropdown-sm .dropdown-item:focus,
+#menu-s .nav-dropdown-sm .dropdown-item:hover {
+  background: #273646!important;
+}
+#menu-s .navbar,
+#menu-s .nav-dropdown-sm,
+#menu-s .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-s .nav-dropdown-sm .dropdown-menu {
+  background: #2c3e50;
+}
+#menu-s .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-s .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-s .bg-color.transparent.opened .link:hover,
+#menu-s .bg-color.transparent.opened .link:focus {
+  color: #f39c12;
+}
+#menu-s .link[aria-expanded="true"],
+#menu-s .dropdown-item[aria-expanded="true"] {
+  color: #f39c12!important;
+}
+#footer1-13 .mbr-section-subtitle,
+#footer1-13 .mbr-section-text {
+  color: #fff;
+}
+#footer1-13 .mbr-section-subtitle {
+  margin-bottom: 20px;
+  margin-top: 0;
+  font-size: 18px;
+}
+#accordion2-19 P {
+  text-align: left;
 }
