@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ThiemOne 2",
-    "currentPage": "arzt-site.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 40,
+    "uniqCompNum": 41,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -318,9 +318,10 @@
               "name": "gift",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "title11": "KUNDENWÜNSCHE",
@@ -332,9 +333,10 @@
               "name": "website-theme",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "title12": "PASSENDES LAYOUT",
@@ -346,9 +348,10 @@
               "name": "setting3",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "title13": "PASSENDES KONZEPT",
@@ -360,9 +363,10 @@
               "name": "responsive",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "title21": "RESPONSIVES DESIGN",
@@ -374,9 +378,10 @@
               "name": "rocket",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "title22": "NEUESTE TECHNOLOGIEN",
@@ -388,9 +393,10 @@
               "name": "global",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "title23": "IHRE DOMAIN",
@@ -402,9 +408,10 @@
               "name": "success",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "title31": "DIE 6 MONATE DANACH",
@@ -416,9 +423,10 @@
               "name": "wordpress",
               "family": "socicon",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "title32": "WORDPRESS-BETREUUNG",
@@ -430,9 +438,10 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "title33": "BETREUUNG LANGFRISTIG",
@@ -2003,37 +2012,41 @@
           "text": "<p>Diese responsive Arzt-Website zeigt die Möglichkeiten einer statischen Website mit dem Framework BOOTSTRAP. &nbsp;</p>"
         },
         {
-          "_styles": {},
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
           "_name": "call5",
-          "_anchor": "call5-13",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/07.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.7,
-            "overlayColor": "#fff",
             "showTitle": false,
             "showText": false,
             "showButtons": true,
-            "showText1": true
+            "showText1": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/07.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
           },
           "title": "Ready to get started?",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos quaerat omnis amet accusantium accusamus quidems?",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"http://www.neurologe-braun.de\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Live View</a>",
-          "text1": ""
+          "text1": "",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero call3\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 0px;\">\n\n    \n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-8 col-lg-offset-2 text-xs-left call-inner\">\n\n                    <div class=\"col-xs-12 text-xs-center\">\n\n                        \n\n                        \n\n                        <div class=\"mbr-section-btn\"><a class=\"btn btn-primary btn-lg mbr-editable-button\" href=\"http://www.neurologe-braun.de\" target=\"_blank\" code-editable-id=\"28\">Live View</a></div>\n\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"29\"></p>\n                    </div>\n\n                </div>\n            </div>\n        </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true,
+          "_anchor": "call5-13"
         }
       ]
     }
