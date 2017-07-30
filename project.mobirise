@@ -597,14 +597,16 @@
               "src": "@PROJECT_PATH@/assets/images/logo.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
               "name": "responsive-design",
               "family": "icon54",
-              "link": "https://mobirise.com",
+              "link": "",
               "size": "150",
               "newWindow": false,
               "color": "#fac51c",
