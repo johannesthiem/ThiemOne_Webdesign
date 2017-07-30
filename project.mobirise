@@ -2032,7 +2032,7 @@
           },
           "title": "Ready to get started?",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos quaerat omnis amet accusantium accusamus quidems?",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"www.neurologe-braun.de\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Live View</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"http://www.neurologe-braun.de\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Live View</a>",
           "text1": ""
         }
       ]
